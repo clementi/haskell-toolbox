@@ -83,17 +83,17 @@ header .inner {
   width: 120%;
   margin-left: -10%;
   padding-top: 15px;
-  background-color: #b06050;
-  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #bb6655), color-stop(100%, #a05544));
-  background-image: -moz-linear-gradient(top, #bb6655 0%, #a05544 100%);
-  background-image: linear-gradient(top, #bb6655 0%, #a05544 100%);
+  background: #604080;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #664488), color-stop(100%, #553377));
+  background-image: -moz-linear-gradient(top, #664488 0%, #553377 100%);
+  background-image: linear-gradient(top, #664488 0%, #553377 100%);
   -webkit-border-radius: 0 0;
   -moz-border-radius: 0 0 50% 50% / 0 0 50px 50px;
   -o-border-radius: 0 0 50% 50% / 0 0 50px 50px;
   -ms-border-radius: 0 0 50% 50% / 0 0 50px 50px;
   -khtml-border-radius: 0 0 50% 50% / 0 0 50px 50px;
   border-radius: 0 0 50% 50% / 0 0 50px 50px;
-  border-bottom: 1px solid #994433;
+  border-bottom: 1px solid #775599;
 }
 
 header .toolbox {
