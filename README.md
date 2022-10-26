@@ -1,6 +1,6 @@
-# The Scala Toolbox
+# The Haskell Toolbox
 
-This is the source code for the Scala Toolbox.
+This is the source code for the Haskell Toolbox.
 
 ## Building
 
