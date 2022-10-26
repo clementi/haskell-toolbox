@@ -41,12 +41,8 @@
             <ul>
               <% projects.each do |project| %>
               <li data-search="<%= category.downcase %>
-                               <%= project['name'].downcase %>
-                               <%= project['platforms'].join(' ') %>">
+                               <%= project['name'].downcase %>">
                 <a href="<%= project['url'] %>"><%= project['name'] %></a>
-                <% project['platforms'].each do |platform| %>
-                <span class="platform <%= platform %>"><%= platform %></span>
-                <% end %>
               </li>
               <% end %>
             </ul>
