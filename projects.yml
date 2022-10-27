@@ -45,3 +45,9 @@ mwc-random:
   url: https://hackage.haskell.org/package/mwc-random
   categories: [Random Data Generation]
   platforms: []
+
+random-shuffle:
+  name: random-shuffle
+  url: https://hackage.haskell.org/package/random-shuffle
+  categories: [Random Data Generation]
+  platforms: []
