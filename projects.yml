@@ -13,7 +13,7 @@ refined:
 quickcheck:
   name: QuickCheck
   url: https://hackage.haskell.org/package/QuickCheck
-  categories: [Testing]
+  categories: [Testing, Random Data Generation]
   platforms: []
 
 rxhaskell:
@@ -26,5 +26,22 @@ aeson:
   name: aeson
   url: https://hackage.haskell.org/package/aeson
   categories: [JSON]
-  platform: []
+  platforms: []
 
+random:
+  name: random
+  url: https://github.com/haskell/random
+  categories: [Random Data Generation]
+  platforms: []
+
+mersenne-random:
+  name: mersenne-random
+  url: https://hackage.haskell.org/package/mersenne-random
+  categories: [Random Data Generation]
+  platforms: []
+
+mwc-random:
+  name: mwc-random
+  url: https://hackage.haskell.org/package/mwc-random
+  categories: [Random Data Generation]
+  platforms: []
