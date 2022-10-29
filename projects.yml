@@ -135,3 +135,9 @@ collections-api:
   url: https://hackage.haskell.org/package/collections-api
   categories: [Collections]
   platforms: []
+
+stm:
+  name: stm
+  url: https://hackage.haskell.org/package/stm
+  categories: [Concurrency]
+  platform: []
