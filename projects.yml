@@ -171,3 +171,9 @@ optparse-simple:
   url: https://github.com/fpco/optparse-simple
   categories: [CLI]
   platforms: []
+
+pointfree:
+  name: pointfree
+  url: https://github.com/bmillwood/pointfree
+  categories: [Code Analysis]
+  platforms: []
