@@ -183,3 +183,15 @@ hunit:
   url: https://github.com/hspec/HUnit
   categories: [Testing]
   platforms: []
+  
+mtl:
+  name: mtl
+  url: https://github.com/haskell/mtl
+  categories: [Monad Transformers]
+  platforms: []
+  
+transformers:
+  name: transformers
+  url: https://hackage.haskell.org/package/transformers
+  categories: [Monad Transformers, Functor Transformers]
+  platforms: []
