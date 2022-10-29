@@ -81,3 +81,9 @@ haskell-stack:
   url: https://docs.haskellstack.org/
   categories: [Build Tools, REPLs]
   platforms: []
+
+cabal:
+  name: Cabal
+  url: https://www.haskell.org/cabal/
+  categories: [Build Tools]
+  platforms: []
