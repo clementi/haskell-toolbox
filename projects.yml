@@ -105,3 +105,16 @@ megaparsec:
   url: https://github.com/mrkkrp/megaparsec
   categories: [Parsing]
   platforms: []
+  
+lens:
+  name: lens
+  url: https://github.com/ekmett/lens/
+  categories: [Lenses]
+  platforms: []
+
+lens-aeson:
+  name: lens-aeson
+  url: https://github.com/lens/lens-aeson/
+  categories: [Lenses, JSON]
+  platforms: []
+
