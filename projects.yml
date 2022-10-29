@@ -140,4 +140,16 @@ stm:
   name: stm
   url: https://hackage.haskell.org/package/stm
   categories: [Concurrency]
-  platform: []
+  platforms: []
+
+text:
+  name: text
+  url: https://hackage.haskell.org/package/text
+  categories: [Text, ByteStrings]
+  platforms: []
+
+bytestring:
+  name: bytestring
+  url: https://hackage.haskell.org/package/bytestring
+  categories: [Text, ByteStrings]
+  platforms: []
