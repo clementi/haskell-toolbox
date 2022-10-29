@@ -118,3 +118,20 @@ lens-aeson:
   categories: [Lenses, JSON]
   platforms: []
 
+zip:
+  name: zip
+  url: https://github.com/mrkkrp/zip
+  categories: [Compression]
+  platforms: []
+  
+containers:
+  name: containers
+  url: https://hackage.haskell.org/package/containers
+  categories: [Collections]
+  platforms: []
+
+collections-api:
+  name: collections-api
+  url: https://hackage.haskell.org/package/collections-api
+  categories: [Collections]
+  platforms: []
