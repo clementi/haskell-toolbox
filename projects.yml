@@ -195,3 +195,39 @@ transformers:
   url: https://hackage.haskell.org/package/transformers
   categories: [Monad Transformers, Functor Transformers]
   platforms: []
+  
+yesod:
+  name: Yesod
+  url: https://www.yesodweb.com/
+  categories: [Web Services, Web Frameworks]
+  platforms: []
+
+servant:
+  name: servant
+  url: https://www.servant.dev/
+  categories: [Web Services]
+  platforms: []
+
+miso:
+  name: miso
+  url: https://haskell-miso.org/
+  categories: [Front-End Framework]
+  platforms: []
+
+reflex:
+  name: reflex
+  url: https://github.com/reflex-frp/reflex
+  categories: [Reactive]
+  platforms: []
+
+reflex-dom:
+  name: reflex-dom
+  url: https://github.com/reflex-frp/reflex-dom
+  categories: [Reactive, HTML Generation, DOM Generation]
+  platforms: []
+
+obelisk:
+  name: obelisk
+  url: https://github.com/obsidiansystems/obelisk#obelisk
+  categories: [Reactive]
+  platforms: []
