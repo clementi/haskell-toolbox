@@ -87,3 +87,21 @@ cabal:
   url: https://www.haskell.org/cabal/
   categories: [Build Tools]
   platforms: []
+
+attoparsec:
+  name: attoparsec
+  url: https://github.com/haskell/attoparsec
+  categories: [Parsing]
+  platforms: []
+
+parsec:
+  name: parsec
+  url: https://github.com/haskell/parsec
+  categories: [Parsing]
+  platforms: []
+
+megaparsec:
+  name: megaparsec
+  url: https://github.com/mrkkrp/megaparsec
+  categories: [Parsing]
+  platforms: []
