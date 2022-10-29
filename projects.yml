@@ -7,7 +7,7 @@ wreq:
 refined:
   name: refined
   url: https://github.com/nikita-volkov/refined
-  categories: [Types]
+  categories: [Refinement Types]
   platforms: []
 
 quickcheck:
