@@ -231,3 +231,15 @@ obelisk:
   url: https://github.com/obsidiansystems/obelisk#obelisk
   categories: [Reactive]
   platforms: []
+
+wai:
+  name: wai
+  url: https://github.com/yesodweb/wai
+  categories: [HTTP Servers]
+  platforms: []
+
+warp:
+  name: warp
+  url: https://hackage.haskell.org/package/warp
+  categories: [HTTP Servers]
+  platforms: []
