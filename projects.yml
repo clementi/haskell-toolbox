@@ -177,3 +177,9 @@ pointfree:
   url: https://github.com/bmillwood/pointfree
   categories: [Code Analysis]
   platforms: []
+  
+hunit:
+  name: HUnit
+  url: https://github.com/hspec/HUnit
+  categories: [Testing]
+  platforms: []
