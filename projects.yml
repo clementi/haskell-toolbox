@@ -55,5 +55,29 @@ random-shuffle:
 mu:
   name: Mu
   url: https://higherkindness.io/mu/
-  categories: [Web Services]
+  categories: [Web Services, GraphQL]
+  platforms: []
+
+morpheus-graphql:
+  name: Morpheus GraphQL
+  url: https://morpheusgraphql.com/
+  categories: [GraphQL]
+  platforms: []
+
+spock:
+  name: Spock
+  url: https://www.spock.li/
+  categories: [Web Services, Web Frameworks]
+  platformss: []
+
+scotty:
+  name: scotty
+  url: https://github.com/scotty-web/scotty
+  categories: [Web Services, Web Frameworks]
+  platforms: []
+
+haskell-stack:
+  name: Stack
+  url: https://docs.haskellstack.org/
+  categories: [Build Tools, REPLs]
   platforms: []
