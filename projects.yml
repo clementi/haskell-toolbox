@@ -153,3 +153,21 @@ bytestring:
   url: https://hackage.haskell.org/package/bytestring
   categories: [Text, ByteStrings]
   platforms: []
+  
+optparse-applicative:
+  name: optparse-applicative
+  url: https://github.com/pcapriotti/optparse-applicative
+  categories: [CLI]
+  platforms: []
+  
+optparse-generic:
+  name: optparse-generic
+  url: https://github.com/Gabriella439/optparse-generic
+  categories: [CLI]
+  platforms: []
+  
+optparse-simple:
+  name: optparse-simple
+  url: https://github.com/fpco/optparse-simple
+  categories: [CLI]
+  platforms: []
