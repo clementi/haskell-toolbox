@@ -51,3 +51,9 @@ random-shuffle:
   url: https://hackage.haskell.org/package/random-shuffle
   categories: [Random Data Generation]
   platforms: []
+
+mu:
+  name: Mu
+  url: https://higherkindness.io/mu/
+  categories: [Web Services]
+  platforms: []
