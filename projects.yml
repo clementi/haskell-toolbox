@@ -243,3 +243,9 @@ warp:
   url: https://hackage.haskell.org/package/warp
   categories: [HTTP Servers]
   platforms: []
+
+cache:
+  name: cache
+  url: https://github.com/hverr/haskell-cache
+  categories: [Caching]
+  platforms: []
