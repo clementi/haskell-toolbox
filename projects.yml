@@ -139,7 +139,7 @@ collections-api:
 stm:
   name: stm
   url: https://hackage.haskell.org/package/stm
-  categories: [Concurrency]
+  categories: [Concurrency, Software Transactional Memory]
   platforms: []
 
 text:
