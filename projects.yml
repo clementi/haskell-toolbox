@@ -249,3 +249,9 @@ cache:
   url: https://github.com/hverr/haskell-cache
   categories: [Caching]
   platforms: []
+
+yaml:
+  name: yaml
+  url: https://github.com/snoyberg/yaml
+  categories: [YAML]
+  platforms: []
