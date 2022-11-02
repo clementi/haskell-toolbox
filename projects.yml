@@ -105,7 +105,7 @@ megaparsec:
   url: https://github.com/mrkkrp/megaparsec
   categories: [Parsing]
   platforms: []
-  
+
 lens:
   name: lens
   url: https://github.com/ekmett/lens/
@@ -123,7 +123,7 @@ zip:
   url: https://github.com/mrkkrp/zip
   categories: [Compression]
   platforms: []
-  
+
 containers:
   name: containers
   url: https://hackage.haskell.org/package/containers
@@ -153,19 +153,19 @@ bytestring:
   url: https://hackage.haskell.org/package/bytestring
   categories: [Text, ByteStrings]
   platforms: []
-  
+
 optparse-applicative:
   name: optparse-applicative
   url: https://github.com/pcapriotti/optparse-applicative
   categories: [CLI]
   platforms: []
-  
+
 optparse-generic:
   name: optparse-generic
   url: https://github.com/Gabriella439/optparse-generic
   categories: [CLI]
   platforms: []
-  
+
 optparse-simple:
   name: optparse-simple
   url: https://github.com/fpco/optparse-simple
@@ -177,25 +177,25 @@ pointfree:
   url: https://github.com/bmillwood/pointfree
   categories: [Code Analysis]
   platforms: []
-  
+
 hunit:
   name: HUnit
   url: https://github.com/hspec/HUnit
   categories: [Testing]
   platforms: []
-  
+
 mtl:
   name: mtl
   url: https://github.com/haskell/mtl
   categories: [Monad Transformers]
   platforms: []
-  
+
 transformers:
   name: transformers
   url: https://hackage.haskell.org/package/transformers
   categories: [Monad Transformers, Functor Transformers]
   platforms: []
-  
+
 yesod:
   name: Yesod
   url: https://www.yesodweb.com/
