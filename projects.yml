@@ -211,7 +211,7 @@ servant:
 miso:
   name: miso
   url: https://haskell-miso.org/
-  categories: [Front-End Framework]
+  categories: [Front-End Frameworks]
   platforms: []
 
 reflex:
@@ -258,6 +258,12 @@ yaml:
 
 happstack:
   name: happstack
+  url: https://www.happstack.com
+  categories: [Web Services, Web Frameworks]
+  platforms: []
+
+happstack-lite:
+  name: happstack-lite
   url: https://www.happstack.com
   categories: [Web Services, Web Frameworks]
   platforms: []
