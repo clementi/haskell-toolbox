@@ -255,3 +255,9 @@ yaml:
   url: https://github.com/snoyberg/yaml
   categories: [YAML]
   platforms: []
+
+happstack:
+  name: happstack
+  url: https://www.happstack.com
+  categories: [Web Services, Web Frameworks]
+  platforms: []
