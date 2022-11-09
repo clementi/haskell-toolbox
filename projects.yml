@@ -267,3 +267,9 @@ happstack-lite:
   url: https://www.happstack.com
   categories: [Web Services, Web Frameworks]
   platforms: []
+
+rio:
+  name: rio
+  url: https://github.com/commercialhaskell/rio
+  categories: [Miscellaneous]
+  platforms: []
