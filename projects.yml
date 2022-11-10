@@ -273,3 +273,15 @@ rio:
   url: https://github.com/commercialhaskell/rio
   categories: [Miscellaneous]
   platforms: []
+
+path:
+  name: path
+  url: https://github.com/commercialhaskell/path
+  categories: [Filesystem Utilities]
+  platforms: []
+
+describe:
+  name: describe
+  url: https://github.com/commercialhaskell/describe
+  categories: [Code Analysis, GHCi Plugins]
+  platforms: []
