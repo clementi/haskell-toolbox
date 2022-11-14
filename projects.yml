@@ -285,3 +285,27 @@ describe:
   url: https://github.com/commercialhaskell/describe
   categories: [Code Analysis, GHCi Plugins]
   platforms: []
+
+dante:
+  name: dante
+  url: https://github.com/jyp/dante
+  categories: [Emacs Integration]
+  platforms: []
+
+coc.nvim:
+  name: coc.nvim
+  url: https://github.com/neoclide/coc.nvim
+  categories: [Vim Integration]
+  platforms: []
+
+haskell-vim:
+  name: haskell-vim
+  url: https://github.com/neovimhaskell/haskell-vim
+  categories: [Vim Integration]
+  platforms: []
+
+hdevtools:
+  name: hdevtools
+  url: https://github.com/bitc/vim-hdevtools
+  categories: [Vim Integration]
+  platforms: []
