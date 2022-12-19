@@ -319,5 +319,5 @@ req:
 ormolu:
   name: ormolu
   url: https://github.com/tweag/ormolu
-  categories: [Code Formatters]
+  categories: [Code Formatting Tools]
   platforms: []
