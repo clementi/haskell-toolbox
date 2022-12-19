@@ -309,3 +309,15 @@ hdevtools:
   url: https://github.com/bitc/vim-hdevtools
   categories: [Vim Integration]
   platforms: []
+
+req:
+  name: req
+  url: https://github.com/mrkkrp/req
+  categories: [HTTP Clients]
+  platforms: []
+
+ormolu:
+  name: ormolu
+  url: https://github.com/tweag/ormolu
+  categories: [Code Formatters]
+  platforms: []
