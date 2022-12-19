@@ -321,3 +321,9 @@ ormolu:
   url: https://github.com/tweag/ormolu
   categories: [Code Formatting Tools]
   platforms: []
+
+aws-haskell-lambda-runtime:
+  name: aws-haskell-lambda-runtime
+  url: https://github.com/theam/aws-lambda-haskell-runtime
+  categories: [AWS]
+  platforms: []
